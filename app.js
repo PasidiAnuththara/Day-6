@@ -1,1 +1,4 @@
-console.log("Hello Java script");
+function ClickMe(){
+    console.log("Button Clicked !");
+}
+
